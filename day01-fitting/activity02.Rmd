@@ -4,12 +4,7 @@ output: github_document
 ---
 
 
-### A typical modeling PROCESS
-
-```{r}
-
-```
-
+### A typical modeling process
 
 The process that we will use for today's activity is:
 
